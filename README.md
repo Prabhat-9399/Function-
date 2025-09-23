@@ -56,3 +56,5 @@ filter()- filter elements in an iterable based on condition (True/False)
 reduce()- reduce an iterable to a single cumulative value by repeatedly applying a function.
 11.
 ![Image](https://github.com/user-attachments/assets/1285551b-b657-4956-ac0e-a54542b62382)
+practical questions 
+1.Write a Python function that takes a list of numbers as input and returns the sum of all even numbers in the list.
