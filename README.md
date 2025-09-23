@@ -58,4 +58,4 @@ reduce()- reduce an iterable to a single cumulative value by repeatedly applying
 ![Image](https://github.com/user-attachments/assets/1285551b-b657-4956-ac0e-a54542b62382)
 practical questions 
 1.Write a Python function that takes a list of numbers as input and returns the sum of all even numbers in the list.
-https://github.com/Prabhat-9399/Function-/issues/3#issue-3445735300
+https://colab.research.google.com/drive/1vCkCoaI4m6-PnnYBICst0JoZ9jfFE6If
